@@ -1,5 +1,5 @@
 #project name: Tip Calculator
-#learn : Data-types, Mathematical Operators and f-string 
+
 
 print("Welcome to the tip calculator!")
 
